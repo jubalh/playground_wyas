@@ -1,0 +1,1 @@
+Playing with [Haskell](http://www.haskell.org/haskellwiki/Haskell) via Jonathan Tang's Tutorial [Write Yourself a Scheme in 48 Hours](http://jonathan.tang.name/files/scheme_in_48/tutorial/overview.html).
